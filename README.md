@@ -1,1 +1,1 @@
-# bookbot
+Bookbot is a CLI python project I made. It is also my first project!
